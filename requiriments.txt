@@ -1,0 +1,7 @@
+optparse
+threading
+requests
+colorama
+os
+time
+socket
